@@ -11,7 +11,17 @@ An end-to-end data analysis project focused on Amazon product data, pricing, dis
 - Microsoft Power BI
 - Data Visualization
 
-## Dashboard Pages
+
+## Dashboard Preview
+
+### Overview
+![Amazon Sales Overview](Screenshot%202026-09-02%20220049.png)
+
+### Pricing and Discount Analysis
+![Pricing and Discount Analysis](Screenshot%202026-09-02%20220130.png)
+
+### Product Performance
+![Product Performance](Screenshot%202026-09-02%20220207.png)
 
 ### 1. Overview
 - Summary KPIs for products, ratings, and review counts.
