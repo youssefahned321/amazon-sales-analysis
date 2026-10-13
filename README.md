@@ -1,46 +1,65 @@
-# 🛒 Amazon Sales Analysis
+# Amazon Sales Analysis | Python & Power BI
 
-## 📌 Project Overview
-This project analyzes Amazon sales data to identify sales trends, product performance, and business insights using Python and data analysis techniques.
+## Project Overview
+An end-to-end data analysis project focused on Amazon product data, pricing, discounts, customer ratings, and product performance using Python and Microsoft Power BI.
 
-## 🎯 Objectives
-- Understand sales performance.
-- Identify top-performing products and categories.
-- Explore sales trends and customer purchasing behavior.
-- Visualize key business metrics.
-- Provide data-driven business insights.
-
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 - Python
 - Pandas
 - NumPy
-- Matplotlib
-- Seaborn
-- Jupyter Notebook
+- Data Cleaning and Exploratory Data Analysis (EDA)
+- Microsoft Power BI
+- Data Visualization
 
-## ⚙️ Project Workflow
-1. Data loading and inspection.
+## Dashboard Pages
+
+### 1. Overview
+- Summary KPIs for products, ratings, and review counts.
+- Product category rating comparison.
+- Sales and price analysis across categories.
+- Comparison of category-level performance.
+
+### 2. Pricing and Discount Analysis
+- Comparison of actual and discounted prices.
+- Discount analysis across product categories.
+- Product-level discount comparisons.
+- Rating category analysis.
+
+### 3. Product Performance
+- Top-rated products.
+- Products with the highest review counts.
+- Detailed product information and category comparisons.
+
+## Project Workflow
+1. Data loading and inspection using Python.
 2. Data cleaning and preprocessing.
-3. Exploratory Data Analysis (EDA).
-4. Sales and product performance analysis.
-5. Data visualization.
-6. Business insights and recommendations.
+3. Exploratory data analysis.
+4. Analysis of product pricing, discounts, and ratings.
+5. Development of an interactive Power BI dashboard.
+6. Identification of business insights and potential recommendations.
 
-## 📊 Key Business Questions
-- Which products or categories generate the most sales?
-- How do sales change over time?
-- Which products perform best?
-- What patterns can be identified in the dataset?
-- What recommendations can be made from the analysis?
+## Business Questions
+- Which product categories have the highest average ratings?
+- Which products receive the most customer reviews?
+- How do prices and discounts vary across categories?
+- Which products demonstrate strong customer engagement?
+- What insights can support product and pricing decisions?
 
+## Dashboard Preview
 
-## 🚀 How to Run
-1. Clone this repository.
-2. Install dependencies using `pip install -r requirements.txt`.
-3. Open the notebook using Jupyter Notebook.
-4. Run the cells in order.
+### Overview
+![Amazon Sales Overview](images/overview.png)
 
-## 👨‍💻 Author
+### Pricing and Discount Analysis
+![Pricing and Discount Analysis](images/pricing-discount.png)
+
+### Product Performance
+![Product Performance](images/performance.png)
+
+## How to View the Dashboard
+Download the Power BI `.pbix` file from this repository and open it using Microsoft Power BI Desktop.
+
+## Author
 **Youssef Ahmed Abourehab**
 
 Computer Science Student | Data Science
