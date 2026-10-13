@@ -45,19 +45,6 @@ An end-to-end data analysis project focused on Amazon product data, pricing, dis
 - Which products demonstrate strong customer engagement?
 - What insights can support product and pricing decisions?
 
-## Dashboard Preview
-
-### Overview
-![Amazon Sales Overview](images/overview.png)
-
-### Pricing and Discount Analysis
-![Pricing and Discount Analysis](images/pricing-discount.png)
-
-### Product Performance
-![Product Performance](images/performance.png)
-
-## How to View the Dashboard
-Download the Power BI `.pbix` file from this repository and open it using Microsoft Power BI Desktop.
 
 ## Author
 **Youssef Ahmed Abourehab**
